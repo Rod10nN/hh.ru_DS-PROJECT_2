@@ -20,4 +20,4 @@
 
 Исследование требований работодателей к дата-сайентистам. Выводы.
 
-5. [Дополнительные исследования данных](https://github.com/Rod10nN/hh.ru_DS-PROJECT_2/blob/master/project_2.ipynb)
+5. [Общий вывод по результатам анализа](https://github.com/Rod10nN/hh.ru_DS-PROJECT_2/blob/master/project_2.ipynb)
